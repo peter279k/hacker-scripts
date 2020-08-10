@@ -7,6 +7,7 @@
 - [Welcome Script](first_bash_script.sh)
 - [Port Scanner script](port_scanner.sh)
 - [Advanced Port Scanner Script](advanced_port_scanner.sh)
+- [Socket Client](socket_client.py)
 
 ## Initial PostgreSQL DB for MetaSploit
 
